@@ -1,0 +1,6 @@
+httpリクエスト：Webサーバとクライアントは、HTTPというプロトコルでやり取りしましょう
+http：WebサーバとWebクライアントの間で送受信を行うために用いられるプロトコル
+プロトコル：通信規約
+
+
+https://qiita.com/Sekky0905/items/dff3d0da059d6f5bfabf
